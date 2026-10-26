@@ -2,4 +2,4 @@
 .godot/
 
 # Fichiers d import generes par erreur dans le dossier d export
-liaison_cinematique_export_web/*.import
+docs/*.import
